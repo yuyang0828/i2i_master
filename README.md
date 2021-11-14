@@ -30,7 +30,7 @@ Currently this can only do face expression between Japanese Spitz and French Bul
 * keras-contrib
 
     ```sh
-    pip install git+https://www.github.com/keras-team/keras-contrib.git`
+    pip install git+https://www.github.com/keras-team/keras-contrib.git
     ```
 
 * PIL
