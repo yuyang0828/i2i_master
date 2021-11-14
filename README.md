@@ -55,12 +55,11 @@ Select the mode first, `CNN+TPS+FUSION` or `GAN`.
 
 Then just drag or click the upload button to upload the image, and then click `Translate`.
 
-
 ## Repo Files Structure
 
 * `backend` folder contains the backend code
 * `frontend` folder contains the frontend code
-* `experiments` folder contains some notebooks with output during our experiments
+* `experiments` folder contains some notebooks with output during our experiments. This files are very large, so it's a zip file.
 * `images` folder contains some sample images that can upload to the website
 
 ## Acknowledgments
