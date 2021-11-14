@@ -59,7 +59,6 @@ Then just drag or click the upload button to upload the image, and then click `T
 
 * `backend` folder contains the backend code
 * `frontend` folder contains the frontend code
-* `experiments` folder contains some notebooks with output during our experiments. This files are very large, so it's a zip file.
 * `images` folder contains some sample images that can upload to the website
 
 ## Acknowledgments
